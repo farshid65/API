@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.tar
+/.vs
+bin/
+obj/
+
+Enums/bin/
+=======
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.tar
+/.vs
+bin/
+obj/
+
+Enums/bin/
+>>>>>>> 3618dd1 (first commit)

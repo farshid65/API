@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Enums\Enums.csproj" />
+    <ProjectReference Include="..\PublicService\PublicService.csproj" />
+  </ItemGroup>
+
+</Project>
+=======
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Enums\Enums.csproj" />
+    <ProjectReference Include="..\PublicService\PublicService.csproj" />
+  </ItemGroup>
+
+</Project>
+>>>>>>> 3618dd1 (first commit)
